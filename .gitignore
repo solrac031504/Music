@@ -1,2 +1,6 @@
 # Ignore security stuff
 Security/
+
+bin/
+
+obj/
